@@ -12,6 +12,7 @@ paragraf3paragrafparagrafparagrafparagrafparagrafparagrafparagrafparagrafparagra
 
 >Am am
 >>Powiedział jeden jaskiniowiec przed zjedzeniem grzyba
+
 >Nie am am
 >>powiedział drugi jaskiniowiec widząc umierajacego w konwulsjach jaskiniowca nr 1 po zjedzeniu losowego grzyba
 
@@ -33,7 +34,7 @@ Lista zagnieżdżona nienumeryczna:
 - cztery
 
 Kod:
-Lorem ipsum dolor sit amet. Eos autem 'print("KOD W TEKŚCIE")' porro qui dolorum praesentium ea provident dolore est quos fugiat aut consequatur iusto et amet earum. Et aliquam totam in suscipit rerum temporibus placeat sed nostrum quasi est numquam necessitatibus id nihil itaque ut aliquid sunt. Velit perspiciatis quo suscipit doloribus est consectetur beatae aut molestiae necessitatibus et maxime eaque id doloribus vero. Ut doloribus molestias et dolores assumenda qui provident suscipit qui voluptatem consectetur aut saepe voluptatem qui maiores error?
+Lorem ipsum dolor sit amet. Eos autem ''print("KOD W TEKŚCIE")'' porro qui dolorum praesentium ea provident dolore est quos fugiat aut consequatur iusto et amet earum. Et aliquam totam in suscipit rerum temporibus placeat sed nostrum quasi est numquam necessitatibus id nihil itaque ut aliquid sunt. Velit perspiciatis quo suscipit doloribus est consectetur beatae aut molestiae necessitatibus et maxime eaque id doloribus vero. Ut doloribus molestias et dolores assumenda qui provident suscipit qui voluptatem consectetur aut saepe voluptatem qui maiores error?
 ~~~
 malpy = ["orangutany","goryle","małpy"]
 for i in malpy:
