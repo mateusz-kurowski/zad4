@@ -1,3 +1,4 @@
+
 # Nagłowek
 
 paragraf1paragrafparagrafparagrafparagrafparagrafparagrafparagrafparagrafparagrafparagrafparagrafparagrafparagrafparagrafparagrafparagrafparagrafparagraf
@@ -40,6 +41,6 @@ malpy = ["orangutany","goryle","małpy"]
 for i in malpy:
 print(i, end=", ")
 ~~~
-Lorem ipsum dolor sit amet. Eos autem porro qui dolorum praesentium ea provident dolore est quos fugiat aut consequatur iusto et amet earum. Et aliquam totam in suscipit rerum temporibus placeat sed nostrum quasi est numquam necessitatibus id nihil itaque ut aliquid sunt. Velit perspiciatis quo suscipit doloribus est consectetur beatae aut molestiae necessitatibus et maxime eaque id doloribus vero. Ut doloribus molestias et dolores assumenda qui provident suscipit qui voluptatem consectetur aut saepe voluptatem qui maiores error?
+Lorem ipsum dolor sit amet. Eos autem `print("kod zagnieżdżony")` porro qui dolorum praesentium ea provident dolore est quos fugiat aut consequatur iusto et amet earum. Et aliquam totam in suscipit rerum temporibus placeat sed nostrum quasi est numquam necessitatibus id nihil itaque ut aliquid sunt. Velit perspiciatis quo suscipit doloribus est consectetur beatae aut molestiae necessitatibus et maxime eaque id doloribus vero. Ut doloribus molestias et dolores assumenda qui provident suscipit qui voluptatem consectetur aut saepe voluptatem qui maiores error?
 
 ![thewok](noodle.jpg)
